@@ -1,0 +1,6 @@
+[package]
+name = "function"
+version = "0.1.0"
+authors = ["Rp7rf <westhouse51@gmail.com>"]
+
+[dependencies]
